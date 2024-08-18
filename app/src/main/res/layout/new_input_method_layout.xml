@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingLeft="4.0dip"
+    android:paddingRight="4.0dip"
+    android:paddingBottom="9.0dip"
+    android:background="#000">
+
+    <com.tencent.watch.ime.KeyboardGridView
+        android:id="@id/keyboard"
+        android:layout_width="0.0dip"
+        android:layout_height="0.0dip"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/option_layout"
+        app:layout_constraintHeight_percent="0.76"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingClass" />
+
+    <com.tencent.watch.ime.CustomListView
+        android:id="@id/pinyinRec"
+        android:layout_width="0.0dip"
+        android:layout_height="0.0dip"
+        android:layout_marginStart="8.0dip"
+        android:visibility="gone"
+        app:layout_constraintEnd_toStartOf="@id/option_layout"
+        app:layout_constraintHeight_percent="0.11"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/inputText"
+        tools:ignore="MissingClass" />
+
+    <com.tencent.watch.ime.CustomListView
+        android:id="@id/candidateText"
+        android:layout_width="0.0dip"
+        android:layout_height="0.0dip"
+        android:layout_marginStart="8.0dip"
+        android:visibility="gone"
+        app:layout_constraintEnd_toStartOf="@id/option_layout"
+        app:layout_constraintHeight_percent="0.15"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/pinyinRec"
+        tools:ignore="MissingClass" />
+
+    <LinearLayout
+        android:id="@id/option_layout"
+        android:layout_width="0.0dip"
+        android:layout_height="0.0dip"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHeight_percent="0.95"
+        app:layout_constraintWidth_percent="0.23">
+
+        <ImageView
+            android:id="@id/delete_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_weight="1.0"
+            android:padding="5.0dip" />
+
+        <ImageView
+            android:id="@id/space_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_marginTop="5.0dip"
+            android:layout_weight="1.0"
+            android:padding="5.0dip" />
+
+        <TextView
+            android:id="@id/change_mode_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_marginTop="5.0dip"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text="En"
+            android:textColor="@color/black"
+            android:textSize="10.0sp" />
+
+        <TextView
+            android:id="@id/confirm_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="0.0dip"
+            android:layout_marginTop="5.0dip"
+            android:layout_weight="1.0"
+            android:gravity="center"
+            android:text=""
+            android:textColor="#ff0099ff"
+            android:textSize="10.0sp" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@id/member3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@id/member4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:visibility="gone"
+                tools:visibility="visible">
+
+                <TextView
+                    android:id="@id/member5"
+                    android:layout_width="0px"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textColor="#999"
+                    android:textSize="10sp"
+                    tools:text="回复 2159116373 的消息\nJust for Test.[图片]" />
+
+                <ImageView
+                    android:id="@id/member6"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_gravity="center"
+                    android:padding="5dp"
+                    android:src="@drawable/qui_close"
+                    android:tint="#999" />
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@id/member7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#999"
+                android:textSize="10sp"
+                android:visibility="gone"
+                tools:text="@java30433"
+                tools:visibility="visible" />
+
+            <com.tencent.watch.ime.CustomEditText
+                android:id="@id/inputText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="说些什么..."
+                android:includeFontPadding="false"
+                android:textColor="#fff"
+                android:textColorHint="#555"
+                android:textSize="13sp"
+                tools:ignore="MissingClass" />
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@id/emotion_btn"
+                    android:layout_width="28dp"
+                    android:layout_height="28dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="8dp"
+                    android:src="@drawable/emotion_icon" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:layout_gravity="right"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@id/member1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:paddingLeft="8dp"
+                        android:paddingRight="8dp"
+                        android:text="换行"
+                        android:textColor="#00a5ff"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@id/member2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:paddingLeft="8dp"
+                        android:paddingRight="8dp"
+                        android:text="发送"
+                        android:textColor="#00a5ff"
+                        android:textSize="14sp" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

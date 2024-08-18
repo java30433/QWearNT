@@ -1,0 +1,4474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionSheetAnimation" parent="@android:style/Animation">
+        
+        
+    </style>
+    <style name="AlertDialog.AppCompat" parent="@style/Base.AlertDialog.AppCompat" />
+    <style name="AlertDialog.AppCompat.Light" parent="@style/Base.AlertDialog.AppCompat.Light" />
+    <style name="AndroidThemeColorAccentYellow" />
+    <style name="Animation.AppCompat.Dialog" parent="@style/Base.Animation.AppCompat.Dialog" />
+    <style name="Animation.AppCompat.DropDownUp" parent="@style/Base.Animation.AppCompat.DropDownUp" />
+    <style name="Animation.AppCompat.Tooltip" parent="@style/Base.Animation.AppCompat.Tooltip" />
+    <style name="Animation.Design.BottomSheetDialog" parent="@style/Animation.AppCompat.Dialog">
+        
+        
+    </style>
+    <style name="Animation.MaterialComponents.BottomSheetDialog" parent="@style/Animation.AppCompat.Dialog">
+        
+        
+    </style>
+    <style name="Animation.TypingFilter" parent="@android:style/Animation">
+        
+        
+    </style>
+    <style name="Animation.TypingFilterRestore" parent="@android:style/Animation">
+        
+        
+    </style>
+    <style name="AnimationPopUpDown">
+        
+        
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar" />
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar" />
+    <style name="B3_Font">
+        
+        
+    </style>
+    <style name="Base.AlertDialog.AppCompat" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.AlertDialog.AppCompat.Light" parent="@style/Base.AlertDialog.AppCompat" />
+    <style name="Base.Animation.AppCompat.Dialog" parent="@android:style/Animation">
+        
+        
+    </style>
+    <style name="Base.Animation.AppCompat.DropDownUp" parent="@android:style/Animation">
+        
+        
+    </style>
+    <style name="Base.Animation.AppCompat.Tooltip" parent="@android:style/Animation">
+        
+        
+    </style>
+    <style name="Base.CardView" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.DialogWindowTitle.AppCompat" parent="@android:style/Widget">
+        
+        
+        
+    </style>
+    <style name="Base.DialogWindowTitleBackground.AppCompat" parent="@android:style/Widget">
+        
+        
+        
+        
+    </style>
+    <style name="Base.MaterialAlertDialog.MaterialComponents.Title.Icon" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.MaterialAlertDialog.MaterialComponents.Title.Panel" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.MaterialAlertDialog.MaterialComponents.Title.Text" parent="@style/RtlOverlay.DialogWindowTitle.AppCompat">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body1" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body2" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Caption" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display1" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display2" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display3" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display4" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Headline" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Inverse" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse" parent="@style/Base.TextAppearance.AppCompat.Large">
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@style/Base.TextAppearance.AppCompat.Medium">
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Menu" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult" parent="">
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle" parent="@style/Base.TextAppearance.AppCompat.SearchResult">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Title" parent="@style/Base.TextAppearance.AppCompat.SearchResult">
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@style/Base.TextAppearance.AppCompat.Small">
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead.Inverse" parent="@style/Base.TextAppearance.AppCompat.Subhead">
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title" parent="@style/Base.TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title.Inverse" parent="@style/Base.TextAppearance.AppCompat.Title">
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Tooltip" parent="@style/Base.TextAppearance.AppCompat">
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="@style/TextAppearance.AppCompat.Button">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="@style/TextAppearance.AppCompat.Subhead">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@style/TextAppearance.AppCompat.Subhead.Inverse">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@style/TextAppearance.AppCompat.Title">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@style/TextAppearance.AppCompat.Title.Inverse">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Button" parent="@style/TextAppearance.AppCompat.Button" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button">
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button">
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse" parent="@style/TextAppearance.AppCompat.Button">
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.DropDownItem" parent="@android:style/TextAppearance.Small">
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Header" parent="@style/TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="@style/TextAppearance.AppCompat.Menu" />
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="@style/TextAppearance.AppCompat.Menu" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Switch" parent="@style/TextAppearance.AppCompat.Button" />
+    <style name="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="@style/TextAppearance.AppCompat.Menu" />
+    <style name="Base.TextAppearance.MaterialComponents.Badge" parent="@style/TextAppearance.AppCompat">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.MaterialComponents.Button" parent="@style/TextAppearance.AppCompat.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.MaterialComponents.Headline6" parent="@style/TextAppearance.AppCompat.Title">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.MaterialComponents.Subtitle2" parent="@style/TextAppearance.AppCompat.Subhead">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="@android:style/TextAppearance.Medium">
+        
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle" />
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title" />
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.CompactMenu" parent="">
+        
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V7.Theme.AppCompat.Dialog" />
+    <style name="Base.Theme.AppCompat.Dialog.Alert" parent="@style/Base.Theme.AppCompat.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog.FixedSize" parent="@style/Base.Theme.AppCompat.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.Dialog.MinWidth" parent="@style/Base.Theme.AppCompat.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="@style/Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V7.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light.DarkActionBar" parent="@style/Base.Theme.AppCompat.Light">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="@style/Base.V7.Theme.AppCompat.Light.Dialog" />
+    <style name="Base.Theme.AppCompat.Light.Dialog.Alert" parent="@style/Base.Theme.AppCompat.Light.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog.FixedSize" parent="@style/Base.Theme.AppCompat.Light.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.Light.Dialog.MinWidth" parent="@style/Base.Theme.AppCompat.Light.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="@style/Theme.AppCompat.Light" />
+    <style name="Base.Theme.MaterialComponents" parent="@style/Base.V14.Theme.MaterialComponents" />
+    <style name="Base.Theme.MaterialComponents.Bridge" parent="@style/Base.V14.Theme.MaterialComponents.Bridge" />
+    <style name="Base.Theme.MaterialComponents.CompactMenu" parent="">
+        
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.Dialog" parent="@style/Base.V14.Theme.MaterialComponents.Dialog" />
+    <style name="Base.Theme.MaterialComponents.Dialog.Alert" parent="@style/Base.Theme.MaterialComponents.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.Dialog.Bridge" parent="@style/Base.V14.Theme.MaterialComponents.Dialog.Bridge" />
+    <style name="Base.Theme.MaterialComponents.Dialog.FixedSize" parent="@style/Base.Theme.MaterialComponents.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.Dialog.MinWidth" parent="@style/Base.Theme.MaterialComponents.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.DialogWhenLarge" parent="@style/Theme.MaterialComponents" />
+    <style name="Base.Theme.MaterialComponents.Light" parent="@style/Base.V14.Theme.MaterialComponents.Light" />
+    <style name="Base.Theme.MaterialComponents.Light.Bridge" parent="@style/Base.V14.Theme.MaterialComponents.Light.Bridge" />
+    <style name="Base.Theme.MaterialComponents.Light.DarkActionBar" parent="@style/Base.Theme.MaterialComponents.Light">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.Light.DarkActionBar.Bridge" parent="@style/Base.V14.Theme.MaterialComponents.Light.DarkActionBar.Bridge" />
+    <style name="Base.Theme.MaterialComponents.Light.Dialog" parent="@style/Base.V14.Theme.MaterialComponents.Light.Dialog" />
+    <style name="Base.Theme.MaterialComponents.Light.Dialog.Alert" parent="@style/Base.Theme.MaterialComponents.Light.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.Light.Dialog.Bridge" parent="@style/Base.V14.Theme.MaterialComponents.Light.Dialog.Bridge" />
+    <style name="Base.Theme.MaterialComponents.Light.Dialog.FixedSize" parent="@style/Base.Theme.MaterialComponents.Light.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.Light.Dialog.MinWidth" parent="@style/Base.Theme.MaterialComponents.Light.Dialog">
+        
+        
+    </style>
+    <style name="Base.Theme.MaterialComponents.Light.DialogWhenLarge" parent="@style/Theme.MaterialComponents.Light" />
+    <style name="Base.ThemeOverlay.AppCompat" parent="@style/Platform.ThemeOverlay.AppCompat" />
+    <style name="Base.ThemeOverlay.AppCompat.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat">
+        
+        
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark" parent="@style/Platform.ThemeOverlay.AppCompat.Dark">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.Dark">
+        
+        
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.V7.ThemeOverlay.AppCompat.Dialog" />
+    <style name="Base.ThemeOverlay.AppCompat.Dialog.Alert" parent="@style/Base.ThemeOverlay.AppCompat.Dialog">
+        
+        
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Light" parent="@style/Platform.ThemeOverlay.AppCompat.Light">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.ThemeOverlay.MaterialComponents.Dialog" parent="@style/Base.V14.ThemeOverlay.MaterialComponents.Dialog" />
+    <style name="Base.ThemeOverlay.MaterialComponents.Dialog.Alert" parent="@style/Base.V14.ThemeOverlay.MaterialComponents.Dialog.Alert" />
+    <style name="Base.ThemeOverlay.MaterialComponents.MaterialAlertDialog" parent="@style/Base.V14.ThemeOverlay.MaterialComponents.MaterialAlertDialog" />
+    <style name="Base.V14.Theme.MaterialComponents" parent="@style/Base.V14.Theme.MaterialComponents.Bridge">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Bridge" parent="@style/Platform.MaterialComponents">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Dialog" parent="@style/Base.V14.Theme.MaterialComponents.Dialog.Bridge">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Dialog.Bridge" parent="@style/Platform.MaterialComponents.Dialog">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Light" parent="@style/Base.V14.Theme.MaterialComponents.Light.Bridge">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Light.Bridge" parent="@style/Platform.MaterialComponents.Light">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Light.DarkActionBar.Bridge" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Light.Dialog" parent="@style/Base.V14.Theme.MaterialComponents.Light.Dialog.Bridge">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.Theme.MaterialComponents.Light.Dialog.Bridge" parent="@style/Platform.MaterialComponents.Light.Dialog">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V14.ThemeOverlay.MaterialComponents.Dialog" parent="@style/ThemeOverlay.AppCompat.Dialog">
+        
+    </style>
+    <style name="Base.V14.ThemeOverlay.MaterialComponents.Dialog.Alert" parent="@style/ThemeOverlay.AppCompat.Dialog.Alert">
+        
+    </style>
+    <style name="Base.V14.ThemeOverlay.MaterialComponents.MaterialAlertDialog" parent="@style/ThemeOverlay.AppCompat.Dialog.Alert">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.Theme.AppCompat" parent="@style/Platform.AppCompat">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Dialog" parent="@style/Base.Theme.AppCompat">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Light" parent="@style/Platform.AppCompat.Light">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.Theme.AppCompat.Light.Dialog" parent="@style/Base.Theme.AppCompat.Light">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.ThemeOverlay.AppCompat.Dialog" parent="@style/Base.ThemeOverlay.AppCompat">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.Widget.AppCompat.AutoCompleteTextView" parent="@android:style/Widget.AutoCompleteTextView">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.Widget.AppCompat.EditText" parent="@android:style/Widget.EditText">
+        
+        
+        
+        
+    </style>
+    <style name="Base.V7.Widget.AppCompat.Toolbar" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar" parent="">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.Solid" parent="@style/Base.Widget.AppCompat.ActionBar">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabBar" parent="">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton" parent="@style/RtlUnderlay.Widget.AppCompat.ActionButton">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.CloseMode" parent="@style/Base.Widget.AppCompat.ActionButton">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow" parent="@style/RtlUnderlay.Widget.AppCompat.ActionButton.Overflow">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActionMode" parent="">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ActivityChooserView" parent="">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="@style/Base.V7.Widget.AppCompat.AutoCompleteTextView" />
+    <style name="Base.Widget.AppCompat.Button" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Borderless" parent="@style/Base.Widget.AppCompat.Button">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored" parent="@style/Base.Widget.AppCompat.Button.Borderless">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Button.ButtonBar.AlertDialog" parent="@style/Widget.AppCompat.Button.Borderless.Colored">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Colored" parent="@style/Base.Widget.AppCompat.Button">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Small" parent="@style/Base.Widget.AppCompat.Button">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ButtonBar" parent="@android:style/Widget">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ButtonBar.AlertDialog" parent="@style/Base.Widget.AppCompat.ButtonBar" />
+    <style name="Base.Widget.AppCompat.CompoundButton.CheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.CompoundButton.RadioButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.CompoundButton.Switch" parent="@android:style/Widget.CompoundButton">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle" parent="@style/Base.Widget.AppCompat.DrawerArrowToggle.Common">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.DrawerArrowToggle.Common" parent="">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.DropDownItem.Spinner" parent="">
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.EditText" parent="@style/Base.V7.Widget.AppCompat.EditText" />
+    <style name="Base.Widget.AppCompat.ImageButton" parent="@android:style/Widget.ImageButton">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar" parent="@style/Base.Widget.AppCompat.ActionBar">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.Solid" parent="@style/Base.Widget.AppCompat.Light.ActionBar">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabBar" parent="@style/Base.Widget.AppCompat.ActionBar.TabBar" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@style/Base.Widget.AppCompat.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@style/Base.Widget.AppCompat.Light.ActionBar.TabText">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@style/Base.Widget.AppCompat.ActionBar.TabView">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.Light.PopupMenu">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ListMenuView" parent="@android:style/Widget">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ListView" parent="@android:style/Widget.ListView">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.DropDown" parent="@style/Base.Widget.AppCompat.ListView">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.ListView.Menu" parent="@android:style/Widget.ListView.Menu">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.PopupMenu" parent="@style/Widget.AppCompat.ListPopupWindow" />
+    <style name="Base.Widget.AppCompat.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.PopupMenu">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.PopupWindow" parent="@android:style/Widget.PopupWindow" />
+    <style name="Base.Widget.AppCompat.ProgressBar" parent="@android:style/Widget.Holo.ProgressBar" />
+    <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="@android:style/Widget.Holo.ProgressBar.Horizontal" />
+    <style name="Base.Widget.AppCompat.RatingBar" parent="@android:style/Widget.RatingBar">
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar.Indicator" parent="@android:style/Widget.RatingBar">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar.Small" parent="@android:style/Widget.RatingBar">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.SearchView" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.SearchView.ActionBar" parent="@style/Base.Widget.AppCompat.SearchView">
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.SeekBar" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.SeekBar.Discrete" parent="@style/Base.Widget.AppCompat.SeekBar">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner" parent="@style/Platform.Widget.AppCompat.Spinner">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.Underlined" parent="@style/Base.Widget.AppCompat.Spinner">
+        
+    </style>
+    <style name="Base.Widget.AppCompat.TextView" parent="@android:style/Widget.TextView" />
+    <style name="Base.Widget.AppCompat.TextView.SpinnerItem" parent="@android:style/Widget.TextView.SpinnerItem">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar" parent="@style/Base.V7.Widget.AppCompat.Toolbar" />
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="@android:style/Widget">
+        
+        
+        
+    </style>
+    <style name="Base.Widget.Design.TabLayout" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.AutoCompleteTextView" parent="@style/Widget.AppCompat.AutoCompleteTextView">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.CheckedTextView" parent="@android:style/Widget" />
+    <style name="Base.Widget.MaterialComponents.Chip" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.MaterialCalendar.NavigationButton" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog.Flush">
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.PopupMenu" parent="@style/Widget.AppCompat.PopupMenu">
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.PopupMenu.ContextMenu" parent="@style/Widget.AppCompat.PopupMenu" />
+    <style name="Base.Widget.MaterialComponents.PopupMenu.ListPopupWindow" parent="@style/Widget.AppCompat.ListPopupWindow" />
+    <style name="Base.Widget.MaterialComponents.PopupMenu.Overflow" parent="@style/Widget.AppCompat.PopupMenu.Overflow">
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.Slider" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.Snackbar" parent="@style/Widget.Design.Snackbar">
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.TextInputEditText" parent="@style/Widget.Design.TextInputEditText">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.TextInputLayout" parent="@style/Widget.Design.TextInputLayout">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Base.Widget.MaterialComponents.TextView" parent="@style/Widget.AppCompat.TextView" />
+    <style name="ButtonBlue" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+    </style>
+    <style name="ButtonStyle" parent="@android:style/Widget.Button">
+        
+    </style>
+    <style name="C6_Font">
+        
+        
+    </style>
+    <style name="CardInfoItemArrow">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="CardInfoItemArrow800">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="CardInfoItemIcon">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="CardInfoItemInfo">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="CardInfoItemTitle">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="CardView" parent="@style/Base.CardView" />
+    <style name="CardView.Dark" parent="@style/CardView">
+        
+    </style>
+    <style name="CardView.Light" parent="@style/CardView">
+        
+    </style>
+    <style name="CommonTitleRightTxt" parent="@style/TitleBtn">
+    </style>
+    <style name="CustomAnimationDialog" parent="@android:style/Animation.Dialog">
+    </style>
+    <style name="CustomDialog" parent="@android:style/Theme.Dialog">
+    </style>
+    <style name="CustomNoteTxt">
+    </style>
+    <style name="CustomNoteTxtToken">
+    </style>
+    <style name="CustomWindowTitleBackground">
+    </style>
+    <style name="Default" parent="@android:style/Theme.Black">
+    </style>
+    <style name="Default.AnimPullUp" parent="@style/Default">
+    </style>
+    <style name="Default.TotallyTransparentWithAnimPullUp" parent="@style/Default.TotallyTransparentWithNoAnim">
+    </style>
+    <style name="Default.TotallyTransparentWithNoAnim" parent="@style/Default">
+    </style>
+    <style name="DialogFullScreen" parent="@style/Theme.AppCompat.Dialog">
+    </style>
+    <style name="DialogFullscreenNew">
+    </style>
+    <style name="DialogNoBackground" parent="@android:style/Theme.Dialog">
+    </style>
+    <style name="Dialog_Fullscreen">
+    </style>
+    <style name="DropDownDown">
+    </style>
+    <style name="DropDownUp">
+    </style>
+    <style name="EmoDialog" parent="@style/Theme.AppCompat.Light.Dialog">
+    </style>
+    <style name="EmptyTheme" />
+    <style name="ExpandPluginDialog" parent="@android:style/Theme.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="FileSaveDialog" parent="@android:style/Theme.Dialog">
+        
+        
+    </style>
+    <style name="FullscreenTheme" parent="@style/AppTheme">
+    </style>
+    <style name="HelloQQ_Dialog" parent="@android:style/Theme.Dialog">
+        
+        
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents" parent="@style/AlertDialog.AppCompat">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Body.Text" parent="@style/TextAppearance.MaterialComponents.Body2">
+        
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Picker.Date.Calendar" parent="@android:style/Widget.DeviceDefault.DatePicker">
+        
+        
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Picker.Date.Spinner" parent="@android:style/Widget.DeviceDefault.DatePicker">
+        
+        
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Title.Icon" parent="@style/Base.MaterialAlertDialog.MaterialComponents.Title.Icon">
+        
+        
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Title.Icon.CenterStacked" parent="@style/Base.MaterialAlertDialog.MaterialComponents.Title.Icon">
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Title.Panel" parent="@style/Base.MaterialAlertDialog.MaterialComponents.Title.Panel">
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Title.Panel.CenterStacked" parent="@style/Base.MaterialAlertDialog.MaterialComponents.Title.Panel">
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Title.Text" parent="@style/Base.MaterialAlertDialog.MaterialComponents.Title.Text">
+        
+        
+    </style>
+    <style name="MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked" parent="@style/Base.MaterialAlertDialog.MaterialComponents.Title.Text">
+        
+        
+    </style>
+    <style name="MaterialFullscreenTheme" parent="@style/Theme.MaterialComponents.NoActionBar">
+        
+        
+        
+    </style>
+    <style name="MenuDialogStyle">
+        
+        
+        
+        
+        
+    </style>
+    <style name="NewTitleBtn">
+        
+        
+    </style>
+    <style name="NewTitleText">
+        
+        
+    </style>
+    <style name="NoAnimation">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="NoBackGroundDialog" parent="@android:style/Theme.Dialog">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Holo">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Holo.Light">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Platform.MaterialComponents" parent="@style/Theme.AppCompat" />
+    <style name="Platform.MaterialComponents.Dialog" parent="@style/Theme.AppCompat.Dialog" />
+    <style name="Platform.MaterialComponents.Light" parent="@style/Theme.AppCompat.Light" />
+    <style name="Platform.MaterialComponents.Light.Dialog" parent="@style/Theme.AppCompat.Light.Dialog" />
+    <style name="Platform.ThemeOverlay.AppCompat" parent="" />
+    <style name="Platform.ThemeOverlay.AppCompat.Dark" parent="@style/Platform.ThemeOverlay.AppCompat">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Platform.ThemeOverlay.AppCompat.Light" parent="@style/Platform.ThemeOverlay.AppCompat">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Platform.Widget.AppCompat.Spinner" parent="@android:style/Widget.Holo.Spinner" />
+    <style name="QUIBigButtonError" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIBigButtonGhost" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIBigButtonPrimary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIBigButtonSecondary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIBottomSheetDialog" parent="@style/Theme.AppCompat.Dialog">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIBottomSheetDialogFragmentShow">
+        
+        
+    </style>
+    <style name="QUIMediumButtonError" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIMediumButtonGhost" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIMediumButtonPrimary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIMediumButtonSecondary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIMiniButtonError" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIMiniButtonGhost" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIMiniButtonPrimary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUIMiniButtonSecondary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUISmallButtonError" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUISmallButtonGhost" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUISmallButtonPrimary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QUISmallButtonSecondary" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiBigCheckBoxDefault" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiBigCheckBoxText" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiMediumCheckBoxDefault" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiMediumCheckBoxText" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiPicCheckBoxText" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiSmallCheckBoxDefault" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiSmallCheckBoxText" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QuiSmallCheckBoxTextWithBorder" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="QzoneCustomNoteTxt" parent="@style/CustomNoteTxt">
+        
+    </style>
+    <style name="RecentContactListChannelItemIcon">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="RecentContactListItemIcon">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="RecentContactListItemIconPendant" parent="@style/RecentContactListItemIcon">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="RecentContactListItemTitle">
+        
+        
+        
+        
+        
+    </style>
+    <style name="RecentFadeInOut">
+        
+        
+    </style>
+    <style name="RecentOptButton" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="@style/Base.DialogWindowTitle.AppCompat">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.DialogTitle.Icon" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Shortcut" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.SubmenuArrow" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Text" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.PopupMenuItem.Title" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Query" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown.Text" parent="@style/Base.Widget.AppCompat.DropDownItem.Spinner">
+        
+        
+    </style>
+    <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="@android:style/Widget">
+        
+    </style>
+    <style name="RtlUnderlay.Widget.AppCompat.ActionButton" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="RtlUnderlay.Widget.AppCompat.ActionButton.Overflow" parent="@style/Base.Widget.AppCompat.ActionButton">
+        
+        
+    </style>
+    <style name="SelectPicNumberCheckbox">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="ShapeAppearance.MaterialComponents" parent="">
+        
+    </style>
+    <style name="ShapeAppearance.MaterialComponents.LargeComponent" parent="@style/ShapeAppearance.MaterialComponents">
+        
+    </style>
+    <style name="ShapeAppearance.MaterialComponents.MediumComponent" parent="@style/ShapeAppearance.MaterialComponents">
+        
+    </style>
+    <style name="ShapeAppearance.MaterialComponents.SmallComponent" parent="@style/ShapeAppearance.MaterialComponents">
+        
+    </style>
+    <style name="ShapeAppearance.MaterialComponents.Test" parent="">
+        
+        
+    </style>
+    <style name="ShapeAppearance.MaterialComponents.Tooltip" parent="">
+        
+        
+    </style>
+    <style name="ShapeAppearanceOverlay" />
+    <style name="ShapeAppearanceOverlay.BottomLeftDifferentCornerSize" parent="@style/ShapeAppearanceOverlay">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.BottomRightCut" parent="@style/ShapeAppearanceOverlay">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.Cut" parent="@style/ShapeAppearanceOverlay">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.DifferentCornerSize" parent="@style/ShapeAppearanceOverlay">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.BottomSheet" parent="">
+        
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.Chip" parent="">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.ExtendedFloatingActionButton" parent="">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.FloatingActionButton" parent="">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Day" parent="">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Window.Fullscreen" parent="">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Year" parent="">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.MaterialComponents.TextInputLayout.FilledBox" parent="">
+        
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.TopLeftCut" parent="@style/ShapeAppearanceOverlay">
+        
+    </style>
+    <style name="ShapeAppearanceOverlay.TopRightDifferentCornerSize" parent="@style/ShapeAppearanceOverlay">
+        
+    </style>
+    <style name="SmallButtonAlbumsSend" parent="@style/SmallButtonBlueLocalAlbums">
+        
+        
+        
+        
+    </style>
+    <style name="SmallButtonBlue" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="SmallButtonBlueLocalAlbums" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="SmallButtonBlueRectangle" parent="@android:style/Widget.Button">
+        
+        
+        
+    </style>
+    <style name="SmallButtonLocalAlbumsWhite" parent="@android:style/Widget.Button">
+        
+        
+        
+    </style>
+    <style name="SmallButtonWhite" parent="@android:style/Widget.Button">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="SmallTextLocalAlbumsWhite">
+        
+        
+    </style>
+    <style name="SmartRefreshStyle">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="SplashFullscreenTheme" parent="@style/AppTheme">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Test.ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Day" parent="">
+        
+        
+    </style>
+    <style name="Test.Theme.MaterialComponents.MaterialCalendar" parent="@style/Theme.MaterialComponents.Light">
+        
+    </style>
+    <style name="Test.Widget.MaterialComponents.MaterialCalendar" parent="">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Test.Widget.MaterialComponents.MaterialCalendar.Day" parent="">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Test.Widget.MaterialComponents.MaterialCalendar.Day.Selected" parent="">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="TestStyleWithLineHeight" parent="@style/TestStyleWithoutLineHeight">
+        
+    </style>
+    <style name="TestStyleWithLineHeightAppearance">
+        
+    </style>
+    <style name="TestStyleWithThemeLineHeightAttribute" parent="@style/TestStyleWithoutLineHeight">
+        
+    </style>
+    <style name="TestStyleWithoutLineHeight" parent="@style/TextAppearance.AppCompat.Title">
+        
+    </style>
+    <style name="TestThemeWithLineHeight" parent="@style/Theme.AppCompat.Light">
+        
+    </style>
+    <style name="TestThemeWithLineHeightDisabled" parent="@style/TestThemeWithLineHeight">
+        
+    </style>
+    <style name="TextAppearance.AppCompat" parent="@style/Base.TextAppearance.AppCompat" />
+    <style name="TextAppearance.AppCompat.Body1" parent="@style/Base.TextAppearance.AppCompat.Body1" />
+    <style name="TextAppearance.AppCompat.Body2" parent="@style/Base.TextAppearance.AppCompat.Body2" />
+    <style name="TextAppearance.AppCompat.Button" parent="@style/Base.TextAppearance.AppCompat.Button" />
+    <style name="TextAppearance.AppCompat.Caption" parent="@style/Base.TextAppearance.AppCompat.Caption" />
+    <style name="TextAppearance.AppCompat.Display1" parent="@style/Base.TextAppearance.AppCompat.Display1" />
+    <style name="TextAppearance.AppCompat.Display2" parent="@style/Base.TextAppearance.AppCompat.Display2" />
+    <style name="TextAppearance.AppCompat.Display3" parent="@style/Base.TextAppearance.AppCompat.Display3" />
+    <style name="TextAppearance.AppCompat.Display4" parent="@style/Base.TextAppearance.AppCompat.Display4" />
+    <style name="TextAppearance.AppCompat.Headline" parent="@style/Base.TextAppearance.AppCompat.Headline" />
+    <style name="TextAppearance.AppCompat.Inverse" parent="@style/Base.TextAppearance.AppCompat.Inverse" />
+    <style name="TextAppearance.AppCompat.Large" parent="@style/Base.TextAppearance.AppCompat.Large" />
+    <style name="TextAppearance.AppCompat.Large.Inverse" parent="@style/Base.TextAppearance.AppCompat.Large.Inverse" />
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="@style/TextAppearance.AppCompat.SearchResult.Subtitle" />
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="@style/TextAppearance.AppCompat.SearchResult.Title" />
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="@style/TextAppearance.AppCompat.Widget.PopupMenu.Large" />
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="@style/TextAppearance.AppCompat.Widget.PopupMenu.Small" />
+    <style name="TextAppearance.AppCompat.Medium" parent="@style/Base.TextAppearance.AppCompat.Medium" />
+    <style name="TextAppearance.AppCompat.Medium.Inverse" parent="@style/Base.TextAppearance.AppCompat.Medium.Inverse" />
+    <style name="TextAppearance.AppCompat.Menu" parent="@style/Base.TextAppearance.AppCompat.Menu" />
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="@style/Base.TextAppearance.AppCompat.SearchResult.Subtitle" />
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="@style/Base.TextAppearance.AppCompat.SearchResult.Title" />
+    <style name="TextAppearance.AppCompat.Small" parent="@style/Base.TextAppearance.AppCompat.Small" />
+    <style name="TextAppearance.AppCompat.Small.Inverse" parent="@style/Base.TextAppearance.AppCompat.Small.Inverse" />
+    <style name="TextAppearance.AppCompat.Subhead" parent="@style/Base.TextAppearance.AppCompat.Subhead" />
+    <style name="TextAppearance.AppCompat.Subhead.Inverse" parent="@style/Base.TextAppearance.AppCompat.Subhead.Inverse" />
+    <style name="TextAppearance.AppCompat.Title" parent="@style/Base.TextAppearance.AppCompat.Title" />
+    <style name="TextAppearance.AppCompat.Title.Inverse" parent="@style/Base.TextAppearance.AppCompat.Title.Inverse" />
+    <style name="TextAppearance.AppCompat.Tooltip" parent="@style/TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="@style/Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" />
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="@style/Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" />
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@style/Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" />
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title" />
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" />
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@style/Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" />
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle" />
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@style/Base.TextAppearance.AppCompat.Widget.ActionMode.Title" />
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="@style/TextAppearance.AppCompat.Widget.ActionMode.Title" />
+    <style name="TextAppearance.AppCompat.Widget.Button" parent="@style/Base.TextAppearance.AppCompat.Widget.Button" />
+    <style name="TextAppearance.AppCompat.Widget.Button.Borderless.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored" />
+    <style name="TextAppearance.AppCompat.Widget.Button.Colored" parent="@style/Base.TextAppearance.AppCompat.Widget.Button.Colored" />
+    <style name="TextAppearance.AppCompat.Widget.Button.Inverse" parent="@style/Base.TextAppearance.AppCompat.Widget.Button.Inverse" />
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="@style/Base.TextAppearance.AppCompat.Widget.DropDownItem" />
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Header" parent="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Header" />
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" />
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="@style/Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" />
+    <style name="TextAppearance.AppCompat.Widget.Switch" parent="@style/Base.TextAppearance.AppCompat.Widget.Switch" />
+    <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="@style/Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem" />
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent" />
+    <style name="TextAppearance.Compat.Notification.Info" parent="@style/TextAppearance.Compat.Notification">
+        
+        
+    </style>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="@style/TextAppearance.Compat.Notification.Info" />
+    <style name="TextAppearance.Compat.Notification.Time" parent="@style/TextAppearance.Compat.Notification">
+        
+        
+    </style>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title" />
+    <style name="TextAppearance.Design.CollapsingToolbar.Expanded" parent="@style/TextAppearance.AppCompat.Display1">
+        
+    </style>
+    <style name="TextAppearance.Design.Counter" parent="@style/TextAppearance.AppCompat.Caption" />
+    <style name="TextAppearance.Design.Counter.Overflow" parent="@style/TextAppearance.AppCompat.Caption">
+        
+    </style>
+    <style name="TextAppearance.Design.Error" parent="@style/TextAppearance.AppCompat.Caption">
+        
+    </style>
+    <style name="TextAppearance.Design.HelperText" parent="@style/TextAppearance.AppCompat.Caption" />
+    <style name="TextAppearance.Design.Hint" parent="@style/TextAppearance.AppCompat.Caption">
+        
+    </style>
+    <style name="TextAppearance.Design.Placeholder" parent="@style/TextAppearance.AppCompat.Body1" />
+    <style name="TextAppearance.Design.Prefix" parent="@style/TextAppearance.AppCompat.Body1" />
+    <style name="TextAppearance.Design.Snackbar.Message" parent="@android:style/TextAppearance">
+        
+        
+    </style>
+    <style name="TextAppearance.Design.Suffix" parent="@style/TextAppearance.AppCompat.Body1" />
+    <style name="TextAppearance.Design.Tab" parent="@style/TextAppearance.AppCompat.Button">
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Badge" parent="@style/Base.TextAppearance.MaterialComponents.Badge" />
+    <style name="TextAppearance.MaterialComponents.Body1" parent="@style/TextAppearance.AppCompat.Body2">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Body2" parent="@style/TextAppearance.AppCompat.Body1">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Button" parent="@style/Base.TextAppearance.MaterialComponents.Button" />
+    <style name="TextAppearance.MaterialComponents.Caption" parent="@style/TextAppearance.AppCompat.Caption">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Chip" parent="@style/TextAppearance.AppCompat">
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline1" parent="@style/TextAppearance.AppCompat.Display4">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline2" parent="@style/TextAppearance.AppCompat.Display3">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline3" parent="@style/TextAppearance.AppCompat.Display2">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline4" parent="@style/TextAppearance.AppCompat.Display1">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline5" parent="@style/TextAppearance.AppCompat.Headline">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Headline6" parent="@style/Base.TextAppearance.MaterialComponents.Headline6" />
+    <style name="TextAppearance.MaterialComponents.Overline" parent="@style/TextAppearance.AppCompat">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Subtitle1" parent="@style/TextAppearance.AppCompat.Subhead">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Subtitle2" parent="@style/Base.TextAppearance.MaterialComponents.Subtitle2" />
+    <style name="TextAppearance.MaterialComponents.TimePicker.Title" parent="@style/TextAppearance.MaterialComponents.Overline">
+        
+    </style>
+    <style name="TextAppearance.MaterialComponents.Tooltip" parent="@style/TextAppearance.MaterialComponents.Body2">
+        
+    </style>
+    <style name="TextAppearance.StatusBar" parent="@android:style/TextAppearance">
+        
+        
+        
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@style/TextAppearance.StatusBar">
+        
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Title2" parent="@style/TextAppearance.StatusBar.EventContent">
+        
+        
+    </style>
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="@style/Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item" />
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" />
+    <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title" />
+    <style name="TextAppearanceSwitch">
+        
+        
+        
+        
+        
+    </style>
+    <style name="TextViewStyle" parent="@android:style/Widget.TextView">
+        
+    </style>
+    <style name="Theme.AppCompat" parent="@style/Base.Theme.AppCompat" />
+    <style name="Theme.AppCompat.CompactMenu" parent="@style/Base.Theme.AppCompat.CompactMenu" />
+    <style name="Theme.AppCompat.DayNight" parent="@style/Theme.AppCompat.Light" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@style/Theme.AppCompat.Light.DarkActionBar" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@style/Theme.AppCompat.Light.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@style/Theme.AppCompat.Light.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@style/Theme.AppCompat.Light.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@style/Theme.AppCompat.Light.DialogWhenLarge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@style/Theme.AppCompat.Light.NoActionBar" />
+    <style name="Theme.AppCompat.Dialog" parent="@style/Base.Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.Dialog.Alert" parent="@style/Base.Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.Dialog.MinWidth" parent="@style/Base.Theme.AppCompat.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.DialogWhenLarge" />
+    <style name="Theme.AppCompat.Empty" parent="" />
+    <style name="Theme.AppCompat.Light" parent="@style/Base.Theme.AppCompat.Light" />
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="@style/Base.Theme.AppCompat.Light.DarkActionBar" />
+    <style name="Theme.AppCompat.Light.Dialog" parent="@style/Base.Theme.AppCompat.Light.Dialog" />
+    <style name="Theme.AppCompat.Light.Dialog.Alert" parent="@style/Base.Theme.AppCompat.Light.Dialog.Alert" />
+    <style name="Theme.AppCompat.Light.Dialog.MinWidth" parent="@style/Base.Theme.AppCompat.Light.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.Light.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Light.DialogWhenLarge" />
+    <style name="Theme.AppCompat.Light.NoActionBar" parent="@style/Theme.AppCompat.Light">
+        
+        
+    </style>
+    <style name="Theme.AppCompat.NoActionBar" parent="@style/Theme.AppCompat">
+        
+        
+    </style>
+    <style name="Theme.Design" parent="@style/Theme.AppCompat" />
+    <style name="Theme.Design.BottomSheetDialog" parent="@style/Theme.AppCompat.Dialog">
+        
+        
+        
+    </style>
+    <style name="Theme.Design.Light" parent="@style/Theme.AppCompat.Light" />
+    <style name="Theme.Design.Light.BottomSheetDialog" parent="@style/Theme.AppCompat.Light.Dialog">
+        
+        
+        
+    </style>
+    <style name="Theme.Design.Light.NoActionBar" parent="@style/Theme.Design.Light">
+        
+        
+    </style>
+    <style name="Theme.Design.NoActionBar" parent="@style/Theme.Design">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents" parent="@style/Base.Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.BottomSheetDialog" parent="@style/Theme.MaterialComponents.Dialog">
+        
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Bridge" parent="@style/Base.Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.CompactMenu" parent="@style/Base.Theme.MaterialComponents.CompactMenu" />
+    <style name="Theme.MaterialComponents.DayNight" parent="@style/Theme.MaterialComponents.Light" />
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="@style/Theme.MaterialComponents.Light.BottomSheetDialog" />
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="@style/Theme.MaterialComponents.Light.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="@style/Theme.MaterialComponents.Light.DarkActionBar" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="@style/Theme.MaterialComponents.Light.DarkActionBar.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="@style/Theme.MaterialComponents.Light.Dialog" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="@style/Theme.MaterialComponents.Light.Dialog.Alert" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="@style/Theme.MaterialComponents.Light.Dialog.Alert.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="@style/Theme.MaterialComponents.Light.Dialog.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="@style/Theme.MaterialComponents.Light.Dialog.FixedSize" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="@style/Theme.MaterialComponents.Light.Dialog.FixedSize.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="@style/Theme.MaterialComponents.Light.Dialog.MinWidth" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="@style/Theme.MaterialComponents.Light.Dialog.MinWidth.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="@style/Theme.MaterialComponents.Light.DialogWhenLarge" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="@style/Theme.MaterialComponents.Light.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.Light.NoActionBar.Bridge" />
+    <style name="Theme.MaterialComponents.Dialog" parent="@style/Base.Theme.MaterialComponents.Dialog" />
+    <style name="Theme.MaterialComponents.Dialog.Alert" parent="@style/Base.Theme.MaterialComponents.Dialog.Alert" />
+    <style name="Theme.MaterialComponents.Dialog.Alert.Bridge" parent="@style/Base.Theme.MaterialComponents.Dialog.Bridge">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Dialog.Bridge" parent="@style/Base.Theme.MaterialComponents.Dialog.Bridge" />
+    <style name="Theme.MaterialComponents.Dialog.FixedSize" parent="@style/Base.Theme.MaterialComponents.Dialog.FixedSize" />
+    <style name="Theme.MaterialComponents.Dialog.FixedSize.Bridge" parent="@style/Base.Theme.MaterialComponents.Dialog.Bridge">
+        
+        
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Dialog.MinWidth" parent="@style/Base.Theme.MaterialComponents.Dialog.MinWidth" />
+    <style name="Theme.MaterialComponents.Dialog.MinWidth.Bridge" parent="@style/Base.Theme.MaterialComponents.Dialog.Bridge">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.DialogWhenLarge" parent="@style/Base.Theme.MaterialComponents.DialogWhenLarge" />
+    <style name="Theme.MaterialComponents.Light" parent="@style/Base.Theme.MaterialComponents.Light" />
+    <style name="Theme.MaterialComponents.Light.BarSize" parent="@style/Theme.MaterialComponents.Light">
+        
+    </style>
+    <style name="Theme.MaterialComponents.Light.BottomSheetDialog" parent="@style/Theme.MaterialComponents.Light.Dialog">
+        
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Light.Bridge" parent="@style/Base.Theme.MaterialComponents.Light.Bridge" />
+    <style name="Theme.MaterialComponents.Light.DarkActionBar" parent="@style/Base.Theme.MaterialComponents.Light.DarkActionBar" />
+    <style name="Theme.MaterialComponents.Light.DarkActionBar.Bridge" parent="@style/Base.Theme.MaterialComponents.Light.DarkActionBar.Bridge" />
+    <style name="Theme.MaterialComponents.Light.Dialog" parent="@style/Base.Theme.MaterialComponents.Light.Dialog" />
+    <style name="Theme.MaterialComponents.Light.Dialog.Alert" parent="@style/Base.Theme.MaterialComponents.Light.Dialog.Alert" />
+    <style name="Theme.MaterialComponents.Light.Dialog.Alert.Bridge" parent="@style/Base.Theme.MaterialComponents.Light.Dialog.Bridge">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Light.Dialog.Bridge" parent="@style/Base.Theme.MaterialComponents.Light.Dialog.Bridge" />
+    <style name="Theme.MaterialComponents.Light.Dialog.FixedSize" parent="@style/Base.Theme.MaterialComponents.Light.Dialog.FixedSize" />
+    <style name="Theme.MaterialComponents.Light.Dialog.FixedSize.Bridge" parent="@style/Base.Theme.MaterialComponents.Light.Dialog.Bridge">
+        
+        
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Light.Dialog.MinWidth" parent="@style/Base.Theme.MaterialComponents.Light.Dialog.MinWidth" />
+    <style name="Theme.MaterialComponents.Light.Dialog.MinWidth.Bridge" parent="@style/Base.Theme.MaterialComponents.Light.Dialog.Bridge">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Light.DialogWhenLarge" parent="@style/Base.Theme.MaterialComponents.Light.DialogWhenLarge" />
+    <style name="Theme.MaterialComponents.Light.LargeTouch" parent="@style/Theme.MaterialComponents.Light">
+        
+    </style>
+    <style name="Theme.MaterialComponents.Light.NoActionBar" parent="@style/Theme.MaterialComponents.Light">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.Light.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.Light.Bridge">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.NoActionBar" parent="@style/Theme.MaterialComponents">
+        
+        
+    </style>
+    <style name="Theme.MaterialComponents.NoActionBar.Bridge" parent="@style/Theme.MaterialComponents.Bridge">
+        
+        
+    </style>
+    <style name="Theme.QQNT" parent="@style/Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Theme.QQNT.AppBarOverlay" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.QQNT.NoActionBar" parent="@style/Theme.QQNT">
+        
+        
+    </style>
+    <style name="Theme.QQNT.PopupOverlay" parent="@style/ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.QQNT.Translucent.NoActionBar" parent="@style/Theme.QQNT.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.QQNT.Transparent" parent="@style/Theme.QQNT.NoActionBar">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Theme.QQWatch" parent="@style/Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.AppCompat" parent="@style/Base.ThemeOverlay.AppCompat" />
+    <style name="ThemeOverlay.AppCompat.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.ActionBar" />
+    <style name="ThemeOverlay.AppCompat.Dark" parent="@style/Base.ThemeOverlay.AppCompat.Dark" />
+    <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="@style/Base.ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="@style/ThemeOverlay.AppCompat.Light" />
+    <style name="ThemeOverlay.AppCompat.DayNight.ActionBar" parent="@style/ThemeOverlay.AppCompat.DayNight">
+        
+        
+    </style>
+    <style name="ThemeOverlay.AppCompat.Dialog" parent="@style/Base.ThemeOverlay.AppCompat.Dialog" />
+    <style name="ThemeOverlay.AppCompat.Dialog.Alert" parent="@style/Base.ThemeOverlay.AppCompat.Dialog.Alert" />
+    <style name="ThemeOverlay.AppCompat.Light" parent="@style/Base.ThemeOverlay.AppCompat.Light" />
+    <style name="ThemeOverlay.Design.TextInputEditText" parent="" />
+    <style name="ThemeOverlay.MaterialComponents" parent="@style/ThemeOverlay.AppCompat" />
+    <style name="ThemeOverlay.MaterialComponents.ActionBar" parent="@style/ThemeOverlay.AppCompat.ActionBar" />
+    <style name="ThemeOverlay.MaterialComponents.ActionBar.Primary" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.ActionBar.Surface" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView" parent="">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.FilledBox" parent="@style/ThemeOverlay.MaterialComponents.AutoCompleteTextView">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.FilledBox.Dense" parent="@style/ThemeOverlay.MaterialComponents.AutoCompleteTextView.FilledBox">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox" parent="@style/ThemeOverlay.MaterialComponents.AutoCompleteTextView">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense" parent="@style/ThemeOverlay.MaterialComponents.AutoCompleteTextView.OutlinedBox">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.BottomAppBar.Primary" parent="">
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.BottomAppBar.Surface" parent="">
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.BottomSheetDialog" parent="@style/ThemeOverlay.MaterialComponents.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.Dark" parent="@style/ThemeOverlay.AppCompat.Dark">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.Dark.ActionBar" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog" parent="@style/ThemeOverlay.MaterialComponents.Light.BottomSheetDialog" />
+    <style name="ThemeOverlay.MaterialComponents.Dialog" parent="@style/Base.ThemeOverlay.MaterialComponents.Dialog" />
+    <style name="ThemeOverlay.MaterialComponents.Dialog.Alert" parent="@style/Base.ThemeOverlay.MaterialComponents.Dialog.Alert" />
+    <style name="ThemeOverlay.MaterialComponents.Light" parent="@style/ThemeOverlay.AppCompat.Light">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.Light.BottomSheetDialog" parent="@style/ThemeOverlay.MaterialComponents.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.MaterialAlertDialog" parent="@style/Base.ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.MaterialAlertDialog.Centered" parent="@style/Base.ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog" />
+    <style name="ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date.Calendar" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date" />
+    <style name="ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date.Spinner" parent="@style/ThemeOverlay.MaterialComponents.MaterialAlertDialog.Picker.Date" />
+    <style name="ThemeOverlay.MaterialComponents.MaterialCalendar" parent="@style/ThemeOverlay.MaterialComponents.Dialog">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.MaterialCalendar.Fullscreen" parent="@style/ThemeOverlay.MaterialComponents.MaterialCalendar">
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.TextInputEditText" parent="@style/ThemeOverlay.Design.TextInputEditText">
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.TextInputEditText.FilledBox" parent="@style/ThemeOverlay.MaterialComponents.TextInputEditText">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.TextInputEditText.FilledBox.Dense" parent="@style/ThemeOverlay.MaterialComponents.TextInputEditText.FilledBox">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox" parent="@style/ThemeOverlay.MaterialComponents.TextInputEditText">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox.Dense" parent="@style/ThemeOverlay.MaterialComponents.TextInputEditText.OutlinedBox">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.TimePicker" parent="@style/ThemeOverlay.MaterialComponents.Dialog">
+        
+        
+        
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.TimePicker.Display" parent="">
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.Toolbar.Primary" parent="">
+        
+        
+    </style>
+    <style name="ThemeOverlay.MaterialComponents.Toolbar.Surface" parent="">
+        
+        
+    </style>
+    <style name="ThemeOverlayColorAccentRed" />
+    <style name="TitleBarBtnTextWhite">
+        
+        
+    </style>
+    <style name="TitleBtn">
+        
+        
+    </style>
+    <style name="TitleText">
+        
+        
+    </style>
+    <style name="Widget.AppCompat.ActionBar" parent="@style/Base.Widget.AppCompat.ActionBar" />
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="@style/Base.Widget.AppCompat.ActionBar.Solid" />
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="@style/Base.Widget.AppCompat.ActionBar.TabBar" />
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="@style/Base.Widget.AppCompat.ActionBar.TabText" />
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="@style/Base.Widget.AppCompat.ActionBar.TabView" />
+    <style name="Widget.AppCompat.ActionButton" parent="@style/Base.Widget.AppCompat.ActionButton" />
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="@style/Base.Widget.AppCompat.ActionButton.CloseMode" />
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="@style/Base.Widget.AppCompat.ActionButton.Overflow" />
+    <style name="Widget.AppCompat.ActionMode" parent="@style/Base.Widget.AppCompat.ActionMode" />
+    <style name="Widget.AppCompat.ActivityChooserView" parent="@style/Base.Widget.AppCompat.ActivityChooserView" />
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="@style/Base.Widget.AppCompat.AutoCompleteTextView" />
+    <style name="Widget.AppCompat.Button" parent="@style/Base.Widget.AppCompat.Button" />
+    <style name="Widget.AppCompat.Button.Borderless" parent="@style/Base.Widget.AppCompat.Button.Borderless" />
+    <style name="Widget.AppCompat.Button.Borderless.Colored" parent="@style/Base.Widget.AppCompat.Button.Borderless.Colored" />
+    <style name="Widget.AppCompat.Button.ButtonBar.AlertDialog" parent="@style/Base.Widget.AppCompat.Button.ButtonBar.AlertDialog" />
+    <style name="Widget.AppCompat.Button.Colored" parent="@style/Base.Widget.AppCompat.Button.Colored" />
+    <style name="Widget.AppCompat.Button.Small" parent="@style/Base.Widget.AppCompat.Button.Small" />
+    <style name="Widget.AppCompat.ButtonBar" parent="@style/Base.Widget.AppCompat.ButtonBar" />
+    <style name="Widget.AppCompat.ButtonBar.AlertDialog" parent="@style/Base.Widget.AppCompat.ButtonBar.AlertDialog" />
+    <style name="Widget.AppCompat.CompoundButton.CheckBox" parent="@style/Base.Widget.AppCompat.CompoundButton.CheckBox" />
+    <style name="Widget.AppCompat.CompoundButton.RadioButton" parent="@style/Base.Widget.AppCompat.CompoundButton.RadioButton" />
+    <style name="Widget.AppCompat.CompoundButton.Switch" parent="@style/Base.Widget.AppCompat.CompoundButton.Switch" />
+    <style name="Widget.AppCompat.DrawerArrowToggle" parent="@style/Base.Widget.AppCompat.DrawerArrowToggle">
+        
+    </style>
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="@style/RtlOverlay.Widget.AppCompat.Search.DropDown.Text" />
+    <style name="Widget.AppCompat.EditText" parent="@style/Base.Widget.AppCompat.EditText" />
+    <style name="Widget.AppCompat.ImageButton" parent="@style/Base.Widget.AppCompat.ImageButton" />
+    <style name="Widget.AppCompat.Light.ActionBar" parent="@style/Base.Widget.AppCompat.Light.ActionBar" />
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="@style/Base.Widget.AppCompat.Light.ActionBar.Solid" />
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="@style/Widget.AppCompat.Light.ActionBar.Solid" />
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="@style/Base.Widget.AppCompat.Light.ActionBar.TabBar" />
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="@style/Widget.AppCompat.Light.ActionBar.TabBar" />
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="@style/Base.Widget.AppCompat.Light.ActionBar.TabText" />
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@style/Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" />
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="@style/Base.Widget.AppCompat.Light.ActionBar.TabView" />
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="@style/Widget.AppCompat.Light.ActionBar.TabView" />
+    <style name="Widget.AppCompat.Light.ActionButton" parent="@style/Widget.AppCompat.ActionButton" />
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="@style/Widget.AppCompat.ActionButton.CloseMode" />
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="@style/Widget.AppCompat.ActionButton.Overflow" />
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="@style/Widget.AppCompat.ActionMode" />
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="@style/Widget.AppCompat.ActivityChooserView" />
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="@style/Widget.AppCompat.AutoCompleteTextView" />
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="@style/Widget.AppCompat.DropDownItem.Spinner" />
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="@style/Widget.AppCompat.ListPopupWindow" />
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="@style/Widget.AppCompat.ListView.DropDown" />
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="@style/Base.Widget.AppCompat.Light.PopupMenu" />
+    <style name="Widget.AppCompat.Light.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.Light.PopupMenu.Overflow" />
+    <style name="Widget.AppCompat.Light.SearchView" parent="@style/Widget.AppCompat.SearchView" />
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="@style/Widget.AppCompat.Spinner.DropDown.ActionBar" />
+    <style name="Widget.AppCompat.ListMenuView" parent="@style/Base.Widget.AppCompat.ListMenuView" />
+    <style name="Widget.AppCompat.ListPopupWindow" parent="@style/Base.Widget.AppCompat.ListPopupWindow" />
+    <style name="Widget.AppCompat.ListView" parent="@style/Base.Widget.AppCompat.ListView" />
+    <style name="Widget.AppCompat.ListView.DropDown" parent="@style/Base.Widget.AppCompat.ListView.DropDown" />
+    <style name="Widget.AppCompat.ListView.Menu" parent="@style/Base.Widget.AppCompat.ListView.Menu" />
+    <style name="Widget.AppCompat.PopupMenu" parent="@style/Base.Widget.AppCompat.PopupMenu" />
+    <style name="Widget.AppCompat.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.PopupMenu.Overflow" />
+    <style name="Widget.AppCompat.PopupWindow" parent="@style/Base.Widget.AppCompat.PopupWindow" />
+    <style name="Widget.AppCompat.ProgressBar" parent="@style/Base.Widget.AppCompat.ProgressBar" />
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="@style/Base.Widget.AppCompat.ProgressBar.Horizontal" />
+    <style name="Widget.AppCompat.RatingBar" parent="@style/Base.Widget.AppCompat.RatingBar" />
+    <style name="Widget.AppCompat.RatingBar.Indicator" parent="@style/Base.Widget.AppCompat.RatingBar.Indicator" />
+    <style name="Widget.AppCompat.RatingBar.Small" parent="@style/Base.Widget.AppCompat.RatingBar.Small" />
+    <style name="Widget.AppCompat.SearchView" parent="@style/Base.Widget.AppCompat.SearchView" />
+    <style name="Widget.AppCompat.SearchView.ActionBar" parent="@style/Base.Widget.AppCompat.SearchView.ActionBar" />
+    <style name="Widget.AppCompat.SeekBar" parent="@style/Base.Widget.AppCompat.SeekBar" />
+    <style name="Widget.AppCompat.SeekBar.Discrete" parent="@style/Base.Widget.AppCompat.SeekBar.Discrete" />
+    <style name="Widget.AppCompat.Spinner" parent="@style/Base.Widget.AppCompat.Spinner" />
+    <style name="Widget.AppCompat.Spinner.DropDown" parent="@style/Widget.AppCompat.Spinner" />
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="@style/Widget.AppCompat.Spinner.DropDown" />
+    <style name="Widget.AppCompat.Spinner.Underlined" parent="@style/Base.Widget.AppCompat.Spinner.Underlined" />
+    <style name="Widget.AppCompat.TextView" parent="@style/Base.Widget.AppCompat.TextView" />
+    <style name="Widget.AppCompat.TextView.SpinnerItem" parent="@style/Base.Widget.AppCompat.TextView.SpinnerItem" />
+    <style name="Widget.AppCompat.Toolbar" parent="@style/Base.Widget.AppCompat.Toolbar" />
+    <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="@style/Base.Widget.AppCompat.Toolbar.Button.Navigation" />
+    <style name="Widget.Compat.NotificationActionContainer" parent="" />
+    <style name="Widget.Compat.NotificationActionText" parent="" />
+    <style name="Widget.Design.AppBarLayout" parent="@android:style/Widget">
+        
+    </style>
+    <style name="Widget.Design.BottomNavigationView" parent="">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.Design.BottomSheet.Modal" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.Design.CollapsingToolbar" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="Widget.Design.FloatingActionButton" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.Design.NavigationView" parent="@style/Widget.Design.ScrimInsetsFrameLayout">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.Design.ScrimInsetsFrameLayout" parent="">
+        
+    </style>
+    <style name="Widget.Design.Snackbar" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        
+        
+        
+    </style>
+    <style name="Widget.Design.TextInputEditText" parent="@style/Widget.AppCompat.EditText">
+        
+        
+    </style>
+    <style name="Widget.Design.TextInputLayout" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.Primary" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="@style/Widget.MaterialComponents.ActionBar.Primary" />
+    <style name="Widget.MaterialComponents.ActionBar.Solid" parent="@style/Widget.AppCompat.ActionBar.Solid">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.Surface" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.AppBarLayout.Primary" parent="@style/Widget.Design.AppBarLayout" />
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.AppBarLayout.Primary" />
+    <style name="Widget.MaterialComponents.AppBarLayout.Surface" parent="@style/Widget.Design.AppBarLayout">
+        
+    </style>
+    <style name="Widget.MaterialComponents.AutoCompleteTextView.FilledBox" parent="@style/Base.Widget.MaterialComponents.AutoCompleteTextView">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.AutoCompleteTextView.FilledBox.Dense" parent="@style/Widget.MaterialComponents.AutoCompleteTextView.FilledBox">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox" parent="@style/Base.Widget.MaterialComponents.AutoCompleteTextView" />
+    <style name="Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox.Dense" parent="@style/Widget.MaterialComponents.AutoCompleteTextView.OutlinedBox">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Badge" parent="@android:style/Widget">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.BottomAppBar" parent="@style/Widget.AppCompat.Toolbar">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.BottomAppBar.Colored" parent="@style/Widget.MaterialComponents.BottomAppBar">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomAppBar.Colored" />
+    <style name="Widget.MaterialComponents.BottomNavigationView" parent="@style/Widget.Design.BottomNavigationView">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.BottomNavigationView.Colored" parent="@style/Widget.MaterialComponents.BottomNavigationView">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="@style/Widget.MaterialComponents.BottomNavigationView.Colored" />
+    <style name="Widget.MaterialComponents.BottomSheet" parent="@style/Widget.Design.BottomSheet.Modal">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.BottomSheet.Modal" parent="@style/Widget.MaterialComponents.BottomSheet" />
+    <style name="Widget.MaterialComponents.Button" parent="@style/Widget.AppCompat.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.Icon" parent="@style/Widget.MaterialComponents.Button">
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.OutlinedButton" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.OutlinedButton.Icon" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.TextButton" parent="@style/Widget.MaterialComponents.Button.UnelevatedButton">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.TextButton.Dialog" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.TextButton.Dialog.Flush" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.TextButton.Dialog.Icon" parent="@style/Widget.MaterialComponents.Button.TextButton.Dialog" />
+    <style name="Widget.MaterialComponents.Button.TextButton.Icon" parent="@style/Widget.MaterialComponents.Button.TextButton" />
+    <style name="Widget.MaterialComponents.Button.TextButton.Snackbar" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.UnelevatedButton" parent="@style/Widget.MaterialComponents.Button">
+        
+    </style>
+    <style name="Widget.MaterialComponents.Button.UnelevatedButton.Icon" parent="@style/Widget.MaterialComponents.Button.UnelevatedButton">
+        
+    </style>
+    <style name="Widget.MaterialComponents.CardView" parent="@style/CardView">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.CheckedTextView" parent="@style/Base.Widget.MaterialComponents.CheckedTextView">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Chip.Action" parent="@style/Base.Widget.MaterialComponents.Chip">
+        
+    </style>
+    <style name="Widget.MaterialComponents.Chip.Choice" parent="@style/Base.Widget.MaterialComponents.Chip">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Chip.Entry" parent="@style/Base.Widget.MaterialComponents.Chip">
+        
+    </style>
+    <style name="Widget.MaterialComponents.Chip.Filter" parent="@style/Base.Widget.MaterialComponents.Chip">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.ChipGroup" parent="@android:style/Widget">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.CircularProgressIndicator" parent="@style/Widget.MaterialComponents.ProgressIndicator">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.CircularProgressIndicator.ExtraSmall" parent="@style/Widget.MaterialComponents.CircularProgressIndicator">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.CircularProgressIndicator.Medium" parent="@style/Widget.MaterialComponents.CircularProgressIndicator" />
+    <style name="Widget.MaterialComponents.CircularProgressIndicator.Small" parent="@style/Widget.MaterialComponents.CircularProgressIndicator">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.CollapsingToolbar" parent="@style/Widget.Design.CollapsingToolbar" />
+    <style name="Widget.MaterialComponents.CompoundButton.CheckBox" parent="@style/Widget.AppCompat.CompoundButton.CheckBox">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.CompoundButton.RadioButton" parent="@style/Widget.AppCompat.CompoundButton.RadioButton">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.CompoundButton.Switch" parent="@style/Widget.AppCompat.CompoundButton.Switch">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.ExtendedFloatingActionButton" parent="@style/Widget.MaterialComponents.Button">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.ExtendedFloatingActionButton.Icon" parent="@style/Widget.MaterialComponents.ExtendedFloatingActionButton">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.FloatingActionButton" parent="@style/Widget.Design.FloatingActionButton">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Light.ActionBar.Solid" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.LinearProgressIndicator" parent="@style/Widget.MaterialComponents.ProgressIndicator">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialButtonToggleGroup" parent="@android:style/Widget">
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Day" parent="@style/Widget.MaterialComponents.MaterialCalendar.Item">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Day.Invalid" parent="@style/Widget.MaterialComponents.MaterialCalendar.Day">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Day.Selected" parent="@style/Widget.MaterialComponents.MaterialCalendar.Day">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Day.Today" parent="@style/Widget.MaterialComponents.MaterialCalendar.Day">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.DayTextView" parent="@style/Widget.AppCompat.TextView">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Fullscreen" parent="@style/Widget.MaterialComponents.MaterialCalendar">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderCancelButton" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderConfirmButton" parent="@style/Widget.MaterialComponents.Button.TextButton">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderDivider" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderLayout" parent="@android:style/Widget">
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderSelection" parent="@style/Widget.AppCompat.TextView">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderSelection.Fullscreen" parent="@style/Widget.MaterialComponents.MaterialCalendar.HeaderSelection">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderTitle" parent="@style/Widget.AppCompat.TextView">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.HeaderToggleButton" parent="@style/Widget.AppCompat.ImageButton">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Item" parent="">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.MonthNavigationButton" parent="@style/Base.Widget.MaterialComponents.MaterialCalendar.NavigationButton" />
+    <style name="Widget.MaterialComponents.MaterialCalendar.MonthTextView" parent="@style/Widget.AppCompat.TextView">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Year" parent="@style/Widget.MaterialComponents.MaterialCalendar.Item">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Year.Selected" parent="@style/Widget.MaterialComponents.MaterialCalendar.Year">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.Year.Today" parent="@style/Widget.MaterialComponents.MaterialCalendar.Year">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.MaterialCalendar.YearNavigationButton" parent="@style/Base.Widget.MaterialComponents.MaterialCalendar.NavigationButton" />
+    <style name="Widget.MaterialComponents.NavigationView" parent="@style/Widget.Design.NavigationView">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.PopupMenu" parent="@style/Base.Widget.MaterialComponents.PopupMenu" />
+    <style name="Widget.MaterialComponents.PopupMenu.ContextMenu" parent="@style/Base.Widget.MaterialComponents.PopupMenu.ContextMenu" />
+    <style name="Widget.MaterialComponents.PopupMenu.ListPopupWindow" parent="@style/Base.Widget.MaterialComponents.PopupMenu.ListPopupWindow" />
+    <style name="Widget.MaterialComponents.PopupMenu.Overflow" parent="@style/Base.Widget.MaterialComponents.PopupMenu.Overflow" />
+    <style name="Widget.MaterialComponents.ProgressIndicator" parent="@android:style/Widget">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.ShapeableImageView" parent="@android:style/Widget">
+        
+    </style>
+    <style name="Widget.MaterialComponents.Slider" parent="@style/Base.Widget.MaterialComponents.Slider" />
+    <style name="Widget.MaterialComponents.Snackbar" parent="@style/Base.Widget.MaterialComponents.Snackbar">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Snackbar.FullWidth" parent="@style/Base.Widget.MaterialComponents.Snackbar" />
+    <style name="Widget.MaterialComponents.Snackbar.TextView" parent="@style/Widget.AppCompat.TextView">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TabLayout" parent="@style/Widget.Design.TabLayout">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TabLayout.Colored" parent="@style/Widget.MaterialComponents.TabLayout">
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="@style/Widget.MaterialComponents.TabLayout.Colored" />
+    <style name="Widget.MaterialComponents.TextInputEditText.FilledBox" parent="@style/Base.Widget.MaterialComponents.TextInputEditText">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputEditText.FilledBox.Dense" parent="@style/Widget.MaterialComponents.TextInputEditText.FilledBox">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputEditText.OutlinedBox" parent="@style/Base.Widget.MaterialComponents.TextInputEditText" />
+    <style name="Widget.MaterialComponents.TextInputEditText.OutlinedBox.Dense" parent="@style/Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.FilledBox" parent="@style/Base.Widget.MaterialComponents.TextInputLayout">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.FilledBox.Dense" parent="@style/Widget.MaterialComponents.TextInputLayout.FilledBox">
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.FilledBox.Dense.ExposedDropdownMenu" parent="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.Dense">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu" parent="@style/Widget.MaterialComponents.TextInputLayout.FilledBox">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.OutlinedBox" parent="@style/Base.Widget.MaterialComponents.TextInputLayout">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense" parent="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense.ExposedDropdownMenu" parent="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu" parent="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TextView" parent="@style/Base.Widget.MaterialComponents.TextView" />
+    <style name="Widget.MaterialComponents.TimePicker" parent="">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TimePicker.Button" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TimePicker.Clock" parent="">
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TimePicker.Display" parent="@style/Widget.MaterialComponents.Chip.Choice">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TimePicker.Display.TextInputEditText" parent="@style/Widget.MaterialComponents.TextInputEditText.OutlinedBox">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TimePicker.ImageButton" parent="">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.TimePicker.ImageButton.ShapeAppearance" parent="">
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Toolbar" parent="@style/Widget.AppCompat.Toolbar">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Toolbar.Primary" parent="@style/Widget.MaterialComponents.Toolbar">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="@style/Widget.MaterialComponents.Toolbar.Primary" />
+    <style name="Widget.MaterialComponents.Toolbar.Surface" parent="@style/Widget.MaterialComponents.Toolbar">
+        
+        
+        
+        
+    </style>
+    <style name="Widget.MaterialComponents.Tooltip" parent="@android:style/Widget">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="Widget.Support.CoordinatorLayout" parent="@android:style/Widget">
+        
+    </style>
+    <style name="WidgetProgressDrawable">
+        
+        
+        
+    </style>
+    <style name="actAnimation" parent="@android:style/Animation.Activity">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="action_sheet_btn_style">
+        
+        
+        
+    </style>
+    <style name="action_sheet_content_style">
+        
+        
+    </style>
+    <style name="action_sheet_layout_style">
+        
+        
+        
+    </style>
+    <style name="action_sheet_secondary_title_style">
+        
+        
+        
+    </style>
+    <style name="action_sheet_title_layout_style">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="action_sheet_title_style">
+        
+        
+        
+    </style>
+    <style name="chat_item_right_icon">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="customAutoCompleteTextView" parent="@android:style/Widget.AutoCompleteTextView">
+        
+    </style>
+    <style name="customCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        
+    </style>
+    <style name="customEditText" parent="@android:style/Widget.EditText">
+        
+    </style>
+    <style name="customListView" parent="@android:style/Widget.ListView">
+        
+        
+    </style>
+    <style name="customRadioButton" parent="@android:style/Widget.CompoundButton.RadioButton">
+        
+    </style>
+    <style name="custom_animation_toast">
+        
+        
+    </style>
+    <style name="defaultTextAppearance" parent="@android:style/TextAppearance" />
+    <style name="detail_p_activity_arrow_style">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="detail_p_activity_edit_style_for_add_friend">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="detail_p_activity_subtitle_style">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="detail_p_activity_title_style">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="dragFloatDialogAnim" parent="@android:style/Animation">
+        
+        
+    </style>
+    <style name="emotopn_panel_dialog_fullscreen">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="fade" parent="@android:style/Animation.Activity">
+        
+        
+        
+        
+    </style>
+    <style name="font_l_medium_brand">
+        
+        
+        
+    </style>
+    <style name="font_l_medium_ghost">
+        
+        
+        
+    </style>
+    <style name="font_l_medium_link">
+        
+        
+        
+    </style>
+    <style name="font_l_medium_primary">
+        
+        
+        
+    </style>
+    <style name="font_l_medium_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_l_medium_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_l_medium_warning">
+        
+        
+        
+    </style>
+    <style name="font_l_regular_brand">
+        
+        
+        
+    </style>
+    <style name="font_l_regular_ghost">
+        
+        
+        
+    </style>
+    <style name="font_l_regular_link">
+        
+        
+        
+    </style>
+    <style name="font_l_regular_primary">
+        
+        
+        
+    </style>
+    <style name="font_l_regular_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_l_regular_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_l_regular_warning">
+        
+        
+        
+    </style>
+    <style name="font_m_medium_brand">
+        
+        
+        
+    </style>
+    <style name="font_m_medium_ghost">
+        
+        
+        
+    </style>
+    <style name="font_m_medium_link">
+        
+        
+        
+    </style>
+    <style name="font_m_medium_primary">
+        
+        
+        
+    </style>
+    <style name="font_m_medium_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_m_medium_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_m_medium_warning">
+        
+        
+        
+    </style>
+    <style name="font_m_regular_brand">
+        
+        
+        
+    </style>
+    <style name="font_m_regular_ghost">
+        
+        
+        
+    </style>
+    <style name="font_m_regular_link">
+        
+        
+        
+    </style>
+    <style name="font_m_regular_primary">
+        
+        
+        
+    </style>
+    <style name="font_m_regular_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_m_regular_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_m_regular_warning">
+        
+        
+        
+    </style>
+    <style name="font_s_medium_brand">
+        
+        
+        
+    </style>
+    <style name="font_s_medium_ghost">
+        
+        
+        
+    </style>
+    <style name="font_s_medium_link">
+        
+        
+        
+    </style>
+    <style name="font_s_medium_primary">
+        
+        
+        
+    </style>
+    <style name="font_s_medium_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_s_medium_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_s_medium_warning">
+        
+        
+        
+    </style>
+    <style name="font_s_regular_brand">
+        
+        
+        
+    </style>
+    <style name="font_s_regular_ghost">
+        
+        
+        
+    </style>
+    <style name="font_s_regular_link">
+        
+        
+        
+    </style>
+    <style name="font_s_regular_primary">
+        
+        
+        
+    </style>
+    <style name="font_s_regular_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_s_regular_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_s_regular_warning">
+        
+        
+        
+    </style>
+    <style name="font_xl_medium_brand">
+        
+        
+        
+    </style>
+    <style name="font_xl_medium_ghost">
+        
+        
+        
+    </style>
+    <style name="font_xl_medium_link">
+        
+        
+        
+    </style>
+    <style name="font_xl_medium_primary">
+        
+        
+        
+    </style>
+    <style name="font_xl_medium_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_xl_medium_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_xl_medium_warning">
+        
+        
+        
+    </style>
+    <style name="font_xl_regular_brand">
+        
+        
+        
+    </style>
+    <style name="font_xl_regular_ghost">
+        
+        
+        
+    </style>
+    <style name="font_xl_regular_link">
+        
+        
+        
+    </style>
+    <style name="font_xl_regular_primary">
+        
+        
+        
+    </style>
+    <style name="font_xl_regular_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_xl_regular_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_xl_regular_warning">
+        
+        
+        
+    </style>
+    <style name="font_xs_medium_brand">
+        
+        
+        
+    </style>
+    <style name="font_xs_medium_ghost">
+        
+        
+        
+    </style>
+    <style name="font_xs_medium_link">
+        
+        
+        
+    </style>
+    <style name="font_xs_medium_primary">
+        
+        
+        
+    </style>
+    <style name="font_xs_medium_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_xs_medium_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_xs_medium_warning">
+        
+        
+        
+    </style>
+    <style name="font_xs_regular_brand">
+        
+        
+        
+    </style>
+    <style name="font_xs_regular_ghost">
+        
+        
+        
+    </style>
+    <style name="font_xs_regular_link">
+        
+        
+        
+    </style>
+    <style name="font_xs_regular_primary">
+        
+        
+        
+    </style>
+    <style name="font_xs_regular_secondary_01">
+        
+        
+        
+    </style>
+    <style name="font_xs_regular_secondary_02">
+        
+        
+        
+    </style>
+    <style name="font_xs_regular_warning">
+        
+        
+        
+    </style>
+    <style name="loading_dialog">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="login_Font">
+        
+        
+    </style>
+    <style name="permissionDialog" parent="@android:style/Theme.Dialog">
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="plugin_qzonevideo">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="profile_edit_title_style">
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="progress_horizontal" parent="@android:style/Widget.ProgressBar.Horizontal" />
+    <style name="pullUpAnimation" parent="@android:style/Animation.Activity">
+        
+        
+        
+        
+    </style>
+    <style name="qZoneInputDialog" parent="@android:style/Theme.Dialog">
+        
+        
+    </style>
+    <style name="qZonePublishProgressStyleTemp">
+        
+        
+        
+        
+    </style>
+    <style name="qb_browser_include_float_btn_text_style">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="qb_browser_include_float_btn_text_style_qzonegame">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="qqWaitingDialog" parent="@android:style/Theme.Dialog">
+        
+        
+        
+        
+    </style>
+    <style name="qq_safe_dialog_style" parent="@style/qZoneInputDialog">
+        
+        
+    </style>
+    <style name="rfw_layer_player_seekBar">
+        
+        
+        
+        
+        
+    </style>
+    <style name="selector_arrow_style">
+        
+        
+        
+        
+        
+        
+    </style>
+    <style name="switch_optimus">
+        
+        
+        
+        
+        
+    </style>
+    <style name="sys_msg_result_Font">
+        
+        
+    </style>
+    <style name="sys_msg_type_Font">
+        
+        
+    </style>
+    <style name="table_shuoming_13sp_808080">
+        
+        
+    </style>
+</resources>

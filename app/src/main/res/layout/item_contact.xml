@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg_contact_item" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_margin="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.tencent.qqnt.base.widget.RoundRectImageView
+        android:id="@id/avatar"
+        android:layout_width="28.0dip"
+        android:layout_height="28.0dip"
+        android:layout_marginStart="6dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.tencent.widget.SingleLineTextView
+        android:id="@id/title"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="8.0dip"
+        android:layout_marginRight="6dp"
+        android:layout_marginBottom="8.0dip"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textColor="#000"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="@id/avatar"
+        app:layout_constraintRight_toLeftOf="@id/ext_icon"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@id/ext_icon"
+        android:layout_width="0dip"
+        android:layout_height="0dip"
+        android:layout_marginRight="0dip"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingClass" />
+
+    <com.tencent.mobileqq.quibadge.QUIBadge
+        android:id="@id/unread"
+        style="@style/CustomNoteTxt"
+        android:layout_height="20.0dip"
+        android:layout_marginEnd="6dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="@id/avatar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/avatar" />
+</androidx.constraintlayout.widget.ConstraintLayout>
